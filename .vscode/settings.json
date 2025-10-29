@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/home/esen/Masaüstü/PythonKursu/venv/bin/python",
+  "python.analysis.extraPaths": [
+    "/home/esen/Masaüstü/PythonKursu/venv/lib/python3.13/site-packages"
+  ],
+  "python.terminal.activateEnvironment": true
+}
